@@ -1,0 +1,5 @@
+Welcome to my test app on Linux!
+
+This app is written using VS Code and Mono on Pop!_Os 20.04
+
+Please enter 0 to exit.
